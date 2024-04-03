@@ -1,11 +1,21 @@
+string = '9' # Character
+print(string.isalpha())
+
+#print(string.islower())
+
+
+# print(string.index('3'))
+
+
+# print(string.title())
+# print(string.upper())
+# print(string.lower())
 
 
 
-
-
-string = 'hello       world     '
-print("Before: ", len(string) )
-print(f"After: {len(string.strip())}")
+# string = 'hello       world     '
+# print("Before: ", len(string) )
+# print(f"After: {len(string.strip())}")
 
 
 
